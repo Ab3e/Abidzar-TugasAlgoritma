@@ -1,0 +1,4 @@
+1. User ingin membeli rumah
+2. User Memasukkan harga >= 100 && <99
+3. User yang memasukkan harga >= 100 membeli rumah bagus
+4. User yang memasukkan harga < 99 membeli rumah biasa aja
